@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "rnThemeAnimation",
+    "slug": "rnThemeAnimation",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
